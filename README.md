@@ -1,7 +1,7 @@
 # PythonMiniProject- CHATBOT
 
 
-## Ouput
+## Output
 ![](chat.PNG)
 
 

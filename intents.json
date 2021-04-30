@@ -1,0 +1,27 @@
+{"intents": [
+    {"tag": "Greetings",
+     "patterns": ["Hi", "Hey", "Hello", "Good day"],
+     "responses": ["Hello,how can i help you?", "Hi,how can I help?"],
+     "context": [""]
+     },
+
+    {"tag": "Name",
+     "patterns": ["What is your name?", "What are you called?", "Your name?"],
+     "responses": ["I'm Botsie", "You can call me Botsie"],
+     "context": [""]
+     },
+
+    {"tag": "Thankyou",
+     "patterns": ["Thankyou", "Thanks", "Thanks for your help"],
+     "responses": ["My pleasure", "Your welcome", "Happy to help"],
+     "context": [""]
+     },
+
+    {"tag": "Bye",
+     "patterns": ["Bye", "Goodbye", "Nice chatting to you bye bye"],
+     "responses": ["See you", "Have a nice day", "Bye"],
+     "context": [""]
+     }
+]
+}
+

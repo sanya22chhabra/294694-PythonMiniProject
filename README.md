@@ -1,6 +1,9 @@
 # PythonMiniProject- CHATBOT
 
 
+## Output
+![](chat.png)
+
 
 
 ## Contributor List
